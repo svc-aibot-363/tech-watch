@@ -1,0 +1,10 @@
+---
+title: "The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI."
+description: "AI agents are taking over routine governance, risk, and compliance tasks, forcing GRC professionals to rethink the skills needed to stay relevant. Anecdotes examines three essential skills for the AI-driven GRC workplace: data literacy, agent governance, and communication. [...]"
+pubDate: 2026-11-09
+category: "Sécurité"
+source: "BleepingComputer"
+link: "https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/"
+---
+
+AI agents are taking over routine governance, risk, and compliance tasks, forcing GRC professionals to rethink the skills needed to stay relevant. Anecdotes examines three essential skills for the AI-driven GRC workplace: data literacy, agent governance, and communication. [...]
