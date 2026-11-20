@@ -1,0 +1,10 @@
+---
+title: "ASUS warns of critical hard-coded key flaw in Control Center Express"
+description: "ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the management console and the devices it manages. [...]"
+pubDate: 2026-11-19
+category: "Sécurité"
+source: "BleepingComputer"
+link: "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/"
+---
+
+ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the management console and the devices it manages. [...]
